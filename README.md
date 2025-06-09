@@ -1,2 +1,2 @@
 # tambola-claim-validator
-This project is built to provide a set of validators for the widely popular Tambola game, ensuring the integrity of claims made during gameplay. The validators in this project are designed to check various types of claims, such as Full House claims, ensuring they meet the necessary conditions.
+This project is built to provide a set of validators for the widely popular Tambola game, ensuring the integrity of claims made during gameplay. The validators in this project are designed to check various types of claims, such as Full House claims, ensuring they meet the necessary conditions. These validations are based on the announced numbers and the numbers present on the player’s ticket, guaranteeing fair and accurate gameplay.
