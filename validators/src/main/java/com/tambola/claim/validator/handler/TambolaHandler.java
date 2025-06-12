@@ -17,7 +17,7 @@ public class TambolaHandler {
         this.claimValidatorFactory = claimValidatorFactory;
     }
 
-    private static synchronized TambolaHandler getInstance() {
+    public static synchronized TambolaHandler getTambolaHandler() {
         if (tambolaHandler == null) {
             tambolaHandler = new TambolaHandler(new ClaimValidatorFactory());
         }
